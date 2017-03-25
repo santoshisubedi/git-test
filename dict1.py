@@ -1,7 +1,7 @@
 user = {
     'name': 'santu subedi',
     'email': 'santusub@example.com',
-    'phone': '(111) 111-1112',
+    'phone': '9860144308',
     'address': '123 6th St. Melbourne, FL 32904',
 }
 
