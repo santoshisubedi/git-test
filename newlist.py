@@ -1,5 +1,5 @@
 #you can careate new lists by processing existing list.
-words = ['this', 'is', 'just','a', 'test']
+words = ['This', 'Is', 'Just','A', 'Test']
 capitalized_words = [x.capitalize() for x in words]
 
 print('words:', words)
